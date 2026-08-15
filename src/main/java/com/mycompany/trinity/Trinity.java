@@ -20,7 +20,7 @@ public class Trinity {
    
     static void displayGreetings(){
         System.out.println("------------------------------");  
-        System.out.println("--- Gate---");
+        System.out.println("---Welcome to Baldur's Gate---");
         System.out.println("------------------------------");
         lineBreak();
     }
